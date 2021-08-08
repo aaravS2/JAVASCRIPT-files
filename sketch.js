@@ -4,7 +4,7 @@ function preload(){
 }
 function setup() {
 // put setup code here
-createCanvas(800,1230);
+createCanvas(displayWidth,displayHeight);
 }
 // put drawing code here
 function draw() {
